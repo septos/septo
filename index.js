@@ -1,0 +1,2 @@
+ReactDOM.render(<p>Hi, My name is Septo !</p>, document.getElementById("root")) // penemparan cara pertama
+ReactDOM.render(<p>Ini adalah artikel contoh !</p>, document.querySelector("#artikel")) // penempatan cara kedua
